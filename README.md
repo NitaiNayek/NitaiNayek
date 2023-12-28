@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NITAI NAYEK</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-<p align="left"> <img src="https://images.app.goo.gl/uD3erZ3iBesAhj9q6" alt="nitainayek" /> </p>
+<p align="center"> <img src="https://github.com/NitaiNayek/NitaiNayek/blob/main/Coding.gif" height=500 width=800 alt="nitainayek" /> </p>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=nitainayek58" alt="nitainayek" /></a> </p>
 
